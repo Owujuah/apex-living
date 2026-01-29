@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/apex-living/static/css/main.8544e6ad.css",
+    "main.js": "/apex-living/static/js/main.c470a1c7.js",
+    "static/js/453.4331a820.chunk.js": "/apex-living/static/js/453.4331a820.chunk.js",
+    "index.html": "/apex-living/index.html",
+    "main.8544e6ad.css.map": "/apex-living/static/css/main.8544e6ad.css.map",
+    "main.c470a1c7.js.map": "/apex-living/static/js/main.c470a1c7.js.map",
+    "453.4331a820.chunk.js.map": "/apex-living/static/js/453.4331a820.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8544e6ad.css",
+    "static/js/main.c470a1c7.js"
+  ]
+}
